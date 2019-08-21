@@ -1,6 +1,6 @@
 include::shared-doc/attributes.adoc[]
 
-= {productNameFull} ({productName}) Quickstart Claro
+= {productNameFull} ({productName}) Quickstart
 
 [abstract]
 The quickstarts demonstrate {javaVersion} and a few additional technologies from the JBoss stack. They provide small, specific, working examples that can be used as a reference for your own project.
